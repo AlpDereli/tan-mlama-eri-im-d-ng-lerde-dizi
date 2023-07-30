@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\bin\Debug\net7.0\tanımlama erişim döngülerde dizi.exe
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\bin\Debug\net7.0\tanımlama erişim döngülerde dizi.deps.json
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\bin\Debug\net7.0\tanımlama erişim döngülerde dizi.runtimeconfig.json
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\bin\Debug\net7.0\tanımlama erişim döngülerde dizi.dll
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\bin\Debug\net7.0\tanımlama erişim döngülerde dizi.pdb
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.dll
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\refint\tanımlama erişim döngülerde dizi.dll
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.pdb
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\tanımlama erişim döngülerde dizi.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\tanımlama erişim döngülerde dizi\obj\Debug\net7.0\ref\tanımlama erişim döngülerde dizi.dll
